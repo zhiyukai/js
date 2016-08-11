@@ -43,7 +43,7 @@ var lang = require("caf/core/lang"),
         },
 
         onHide: function() {
-            console.log("HelloPage::onHide test ");
+            console.log("HelloPage::onHide test dev ");
         },
 
         onActive: function() {
