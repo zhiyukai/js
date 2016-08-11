@@ -1,0 +1,17 @@
+{
+    "domain": {
+        "name": "hellodemo.yunos.com",
+        "use_sdk": 1,
+        "version_code": 1,
+        "version": "1",
+        "default_locale": "zh-CN"
+    },
+    "pages": [
+        {
+            "uri": "page://hellodemo.yunos.com/hellodemo",
+            "content_path": "res/default/index.js",
+            "main": true,
+            "icon": "res/default/images/icon.png"
+        }
+    ]
+}
